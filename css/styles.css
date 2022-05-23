@@ -1,0 +1,12 @@
+body{
+background-image: url(../img/ice.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+#output{
+    color: aliceblue;
+    font-weight: bold;
+}

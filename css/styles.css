@@ -1,12 +1,11 @@
 body{
-background-image: url(../img/ice.avif);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-image: url(../img/car.jpg);
 }
 h1{
     text-align: center;
+    color: red;
 }
 #output{
-    color: aliceblue;
+    color:blue;
     font-weight: bold;
 }
